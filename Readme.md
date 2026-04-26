@@ -4,7 +4,7 @@
 
 ## 👋 About
 
-3rd-year Computer Science student at Ajou University, exploring blockchain as a new financial paradigm.  
+2rd-year Computer Science student at Ajou University, exploring blockchain as a new financial paradigm.  
 Focused on the intersection of **financial systems** and **decentralized technology**.
 
 ## 📚 Research Papers
